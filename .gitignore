@@ -1,0 +1,12 @@
+target/
+build/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.log
+hs_err_pid*
+.env
+!.env.example
+application-secret*.yml
+application-secret*.properties
